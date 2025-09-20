@@ -1,0 +1,23 @@
+{
+  "name": "cars--playwright-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chi2A/cars--playwright-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chi2A/cars--playwright-project/issues"
+  },
+  "homepage": "https://github.com/Chi2A/cars--playwright-project#readme",
+  "dependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
